@@ -8,6 +8,7 @@ I gonna share you something related with Math . I share my Math road map just st
 Hello friends, my name is Shyamal Kar, I have created this repository and in it I will upload all the mathematics needed in CS (Computer Science and AI & ML) along with the subject matter and coding functions created by mathematics here. First I will cover the necessary
 mathematics and later I will upload the advanced maths, follow this page to contact me and cover mathematics topics. Here I will update the mathematics topics most of the time.
       Which Topics are coverd in this Repository ?
+      
                     Linear Algebra :-
                                              Vectors: addition, scalar multiplication, dot product, norm (L1, L2), unit vectors
                                              Matrices: addition, multiplication, transpose, inverse, identity matrix
