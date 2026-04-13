@@ -93,4 +93,5 @@ mathematics and later I will upload the advanced maths, follow this page to cont
                                           L1 (Lasso) → sparsity
                                           L2 (Ridge) → smaller weights
                                           Early stopping, dropout (mentioned in ML context)
-                                          Convex optimization basics (why linear/logistic regression has unique solutions) .
+                                          Convex optimization basics (why linear/logistic 
+                                          regression has unique solutions) .
