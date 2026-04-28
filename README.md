@@ -22,8 +22,7 @@ mathematics and later I will upload the advanced maths, follow this page to cont
                                             
                                              Singular Value Decomposition (SVD) - at least the intuition and its use in PCA
                                             
-                                             Vector spaces, basis, span, linear independence (conceptual understanding)
-                                             Positive definite matrices (briefly, for kernels and covariance)
+                                             Vector spaces, basis, span, linear independence . 
                                             
                      Probability and Statistics :-
                                              Basic probability rules (addition, multiplication, complement)
