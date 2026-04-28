@@ -10,6 +10,17 @@ mathematics and later I will upload the advanced maths, follow this page to cont
       Which Topics are coverd in this Repository ?
       
                     Linear Algebra :-
+
+
+                    Try to complete these topics :- 
+                                             Scalars, Vectors, Matrices & Tensors
+                                             Matrix Operations (Addition, subtraction, Multiplication, Transpose, Determinant & Inverse)
+                                             Linear independence, eigenvalues & Eigen vector 
+                                             Matrix Decomposition (e.g., SVD)
+                                             Principal Component analysis (PCA)
+
+                                             
+                                             
                                              Vectors: addition, scalar multiplication, dot product, norm (L1, L2), unit vectors
                                              Matrices: addition, multiplication, transpose, inverse, identity matrix
                                              Matrix operations in M L context (e.g., XO = y for linear regression)
