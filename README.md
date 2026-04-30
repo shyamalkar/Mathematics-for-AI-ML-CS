@@ -57,7 +57,7 @@ mathematics and later I will upload the advanced maths, follow this page to cont
                                             Probability Mass Function(PMF), Probability Density Function(PDF), Cumulative Distribution Function (CDF)
                                             Law of large Numbers and Central limit theorem (Intuition + Why CLT matters in ML ) .
                                            
-                                           
+                                           ,
                    Statistics (For data analysis and model evaluation) :-
                                           Population vs. sample
                                           Mean, median, mode, quartiles, percentiles
