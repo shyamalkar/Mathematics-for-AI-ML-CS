@@ -13,7 +13,7 @@ mathematics and later I will upload the advanced maths, follow this page to cont
 
 
                     Try to complete these topics :- 
-                                             Scalars, Vectors, Matrices & Tensors
+                                             Scalars, Vectors, Matrices & Tensors . 
                                              Matrix Operations (Addition, subtraction, Multiplication, Transpose, Determinant & Inverse)
                                              Linear independence, eigenvalues & Eigen vector 
                                              Matrix Decomposition (e.g., SVD)
