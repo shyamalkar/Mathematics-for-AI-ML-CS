@@ -11,7 +11,80 @@ I gonna share you something related with Math . I share my Math road map just st
 Hello friends, my name is Shyamal Kar, I have created this repository and in it I will upload all the mathematics needed in CS (Computer Science and AI & ML) along with the subject matter and coding functions created by mathematics here. First I will cover the necessary
 mathematics and later I will upload the advanced maths, follow this page to contact me and cover mathematics topics. Here I will update the mathematics topics most of the time.
       Which Topics are coverd in this Repository ?
- 
+
+      # Mathematics for AI, ML and Computer Science
+
+      This repository contains mathematics topics required for:
+
+          - Artificial Intelligence (AI)
+          - Machine Learning (ML)
+          - Deep Learning
+          - Computer Science
+
+
+
+ Roadmap / Topics Covered
+
+# 1. Linear Algebra
+      - Vectors
+      - Matrices
+      - Eigenvalues & Eigenvectors
+      - PCA
+      - SVD
+      - Linear Independence
+
+Notebook:
+📁 Linear_algebra.ipynb
+
+Status:
+✅ Completed 
+
+---
+
+### 2. Probability
+      - Conditional probability
+      - Bayes theorem
+      - Random variables
+      - Distributions
+
+Notebook:
+📁 Probability.ipynb
+
+Status:
+✅ Completed
+
+---
+
+### 3. Statistics
+      - Mean, median
+      - Hypothesis testing
+      - P-value
+      - Confidence interval
+
+Notebook:
+📁 Statistics.ipynb
+
+Status:
+✅ Completed
+
+### 4. Calculus
+      - Partial Derivatives and Gradients
+      - Gradient Descent and Optimization
+      - The Chain Rule (Multivariable)
+      - Higher-Order Derivatives and Hessians
+      - Taylor Series Approximation
+      
+✅ Completed
+### 5. Optimization
+      Convexity and Duality
+      First-Order Optimization Methods
+      Second-Order Optimization Methods
+      Constrained Optimization and Regularization
+      Non-Convex Optimization Challenges
+⏳ Upcoming
+
+
+ ### In More details :- 
                     Linear Algebra :-
 
 
