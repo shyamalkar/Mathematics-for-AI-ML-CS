@@ -1,5 +1,6 @@
 # Mathematics_for_AI_ML_And_CS
-"I gonna cover all AI and ML topics in this repository "
+Goal:
+Build strong mathematics foundations for AI, ML, Deep Learning and Computer Science.
 
 "Warning :- If you are having trouble opening my repository, copy the link of the file you want to open, press this link 👉🏿  https://nbviewer.org/ " and paste link and click on Go . 
 
