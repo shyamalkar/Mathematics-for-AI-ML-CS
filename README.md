@@ -16,7 +16,7 @@ mathematics and later I will upload the advanced maths, follow this page to cont
 
       This repository contains mathematics topics required for:
 
-          - Artificial Intelligence (AI)
+          - Artificial Intelligence (AI) 
           - Machine Learning (ML)
           - Deep Learning
           - Computer Science
