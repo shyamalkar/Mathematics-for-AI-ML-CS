@@ -1,5 +1,5 @@
 # Mathematics_for_AI_ML_And_CS
-This repository covers mathematics topics required for AI, Machine Learning, and Computer Science.
+This repository covers mathematics topics required for AI, Machine Learning, and Computer Science. 
 
 Goal:
 Build strong mathematics foundations for AI, ML, Deep Learning and Computer Science.
