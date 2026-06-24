@@ -127,7 +127,7 @@ Status:
                                              Covariance and correlation
                                              Common distributions:
                                                    1. Binomial
-                                                   2. Poisson
+                                                   2. Poisson 
                                                    3. Normal / Gaussian(Very importent)
                                                    4. Uniform
                                             Probability Mass Function(PMF), Probability Density Function(PDF), Cumulative Distribution Function (CDF)
