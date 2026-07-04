@@ -165,6 +165,8 @@ Status:
                                             Integration (basics only - definite/indefinite integrals, area under curve - useful for
                                             understanding continuous probabilities)
                                             Multivariable focus i s more important than single-variable for ML.
+
+                  
                   Optimization :-
                                             Objective/loss functions (e.g., MSE, cross-entropy)
                                             Cost function landscape (convex vs. non-convex)
