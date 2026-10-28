@@ -1,3 +1,4 @@
+![Uploading Screenshot 2026-10-28 at 8.59.04 AM.png…]()
 # Mathematics_for_AI_ML_And_CS
 This repository covers mathematics topics required for AI, Machine Learning, and Computer Science. 
 
