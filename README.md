@@ -1,5 +1,3 @@
-https://github.com/shyamalkar/Mathematics-for-AI-ML-CS/blob/3b9654f5a09d6037825c20fae6573c69ad585f41/vector_tensor.webp
-
 # Mathematics_for_AI_ML_And_CS
 This repository covers mathematics topics required for AI, Machine Learning, and Computer Science. 
 
